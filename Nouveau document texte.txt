@@ -1,0 +1,23 @@
+<nav class="barre-navigation">
+        <div class="nav-gauche">
+            <a href="index.html" class="logo">
+                <span class="logo-bk">BK</span>
+                <span class="logo-creative">Creative</span>
+            </a>
+        </div>
+
+        <div class="nav-centre">
+            <ul class="menu-principal">
+                <li class="element-menu"><a href="#apropos">A Propos</a></li>
+                <li class="element-menu"><a href="#services">Services</a></li>
+                <li class="element-menu"><a href="#realisations">Mes réalisations</a></li>
+                <li class="element-menu"><a href="#competences">Mes compétences</a></li>
+                <li class="element-menu"><a href="#blog">Blog</a></li>
+                
+            </ul>
+        </div>
+
+        <div class="nav-droite">
+            <a href="#contact" class="bouton-cta">Discutons de ton projet</a>
+        </div>
+    </nav>.
